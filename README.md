@@ -1,2 +1,2 @@
-# react-redux-demo
- This repository contains all the demo accplication which i built while learning redux
+# React-Redux Demo Application
+- In this application i have used basic redux and redux/toolkit in order to maintain appwide state.
